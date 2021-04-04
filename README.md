@@ -1,1 +1,2 @@
 # Experimental-Statistics-Design
+Experimental design for a manufacturing client to identify significant effects on response.  Minimizing cost and data request runs by utilizing full factorial experiment to identify significance, centerpoints for investigating significance of curvature, and central composite design to measure curvature.  In depth investigation of effects, significance, transformations, Analysis of variance, etc.
