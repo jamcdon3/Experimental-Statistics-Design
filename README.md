@@ -1,6 +1,6 @@
 # Experimental Design for Optimization in Manufacturing
 
-AKA how to save money on experimental trials for optimization.  Minimizing cost and data request runs by utilizing full factorial experiment to identify significance, centerpoints for investigating significance of curvature, and central composite design to measure curvature.  In depth investigation of effects, significance, transformations, Analysis of variance, etc.  Summary shown here. 
+Minimizing cost and data request runs for expensive trials by utilizing full factorial experiment to identify significance, centerpoints for investigating significance of curvature, and central composite design to measure curvature.  In depth investigation of effects, significance, transformations, Analysis of variance, etc.  Summary shown here.  Details are in the report.
 
 
 
